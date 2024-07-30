@@ -28,4 +28,4 @@ Welcome to the Expense Tracker App, a simple and intuitive application for track
    - Scroll down to see all transactions listed.
    - Transactions are categorized as income or expense for better clarity.
 
-[See Live]()
+[See Live](https://jimi-chhatrala.github.io/react-js-expense-tracker-app)
